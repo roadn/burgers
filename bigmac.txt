@@ -1,7 +1,8 @@
-steak bio
-salade bio
-tomates bio
-oignons bio
-cornichons bio
-ketchup bio
-moutarde bio
+steak
+salade
+tomates
+oignons
+cornichons
+ketchup
+moutarde
+
